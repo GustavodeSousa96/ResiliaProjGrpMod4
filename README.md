@@ -12,7 +12,8 @@ Neste projeto foi desenvolvido um banco de dados, com as informações inferidas
 Foi selecionado um conjunto de dados especificos, posteriormente realizado perguntas para a filtragem de informações e desenvolvido o Dashboard. 
 
 > ## Dashboard
-> 
+![image](https://user-images.githubusercontent.com/114074031/216663614-31abd1b9-0b3c-416c-b57e-d94d9cd31231.png)
+![image](https://user-images.githubusercontent.com/114074031/216664289-b2a36e31-9f5e-417d-9163-078d4a57b2b3.png)
 
 > ## Tecnologias utilizadas:
  * MySQL Workbench 8.0
@@ -21,3 +22,4 @@ Foi selecionado um conjunto de dados especificos, posteriormente realizado pergu
  * Canva (Apresentação do Projeto).
 
 > ## Equipe
+> 
