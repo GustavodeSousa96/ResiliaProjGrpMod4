@@ -53,7 +53,7 @@ Foi selecionado um conjunto de dados especificos, usado para criar uma modelagem
 > Gustavo de Sousa
 
 [![image](https://user-images.githubusercontent.com/114074031/216670787-12d62090-66df-4473-ad0e-fea8d37c6ebb.png)](https://github.com/GustavodeSousa96)
-[![image](https://user-images.githubusercontent.com/114074031/216671300-87e02aa5-5b08-4e82-9b78-8391fa891e2d.png)]()
+[![image](https://user-images.githubusercontent.com/114074031/216671300-87e02aa5-5b08-4e82-9b78-8391fa891e2d.png)](https://www.linkedin.com/in/gustavo-de-sousa-4416981ba/)
 
 > Juliana Rodrigues
 
