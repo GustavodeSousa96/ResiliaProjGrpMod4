@@ -38,7 +38,7 @@ Foi selecionado um conjunto de dados especificos, usado para criar uma modelagem
  * Xampp
  * Metabase - Acesse o [dashboard](https://projetomod4.metabaseapp.com/public/dashboard/a6a44292-5521-40b4-a2d9-0ad1939ecf45)
  * Excel
- * Canva (Apresentação do Projeto)
+ * Canva [Apresentação do Projeto](https://www.canva.com/design/DAFY3Kd6ATg/c0-yMKRj5nli_lzDiIrN1w/edit?utm_content=DAFY3Kd6ATg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
  
 <br />
 <br />
